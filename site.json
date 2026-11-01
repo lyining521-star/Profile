@@ -1,0 +1,300 @@
+{
+  "name": "Yining Lin",
+  "editingEnabled": false,
+  "media": {
+    "hero": {
+      "src": "c83f421913eb4165904dc29d1394683d.jpg",
+      "alt": "Presenting at school",
+      "sample": false
+    },
+    "art": {
+      "src": "64ef0cdd4fdd4594b04eba2c7c5ab789.png",
+      "alt": "My calligraphy",
+      "sample": false
+    },
+    "music": {
+      "src": "bca7a2a39e5e4e068161e04db1e0393a.png",
+      "alt": "",
+      "sample": false
+    },
+    "court": {
+      "src": "a4e04688e0224a5dabe46238b2e81e44.webp",
+      "alt": "Our football team on the court after a game",
+      "sample": false
+    },
+    "cycling": {
+      "src": "9fae3884a46d40ee9557e2ce22019ddf.jpg",
+      "alt": "On a school cycling trip",
+      "sample": false
+    },
+    "economics": {
+      "src": "06110ccf771641c0b1fd8a40b92b0aaa.jpg",
+      "alt": "",
+      "sample": false
+    },
+    "wall": [
+      {
+        "src": "7c33d924854f494193c948d63d6a09fa.jpeg",
+        "alt": "",
+        "sample": false
+      },
+      {
+        "src": "1b652804921645109d08f209f8b6b6d2.jpeg",
+        "alt": "",
+        "sample": false
+      },
+      {
+        "src": "00efd7ae6697438c9525b151b372abf6.jpg",
+        "alt": "",
+        "sample": false
+      },
+      {
+        "src": "1823be484bd94371895d0cb27d498623.jpeg",
+        "alt": "",
+        "sample": false
+      },
+      {
+        "src": "35c7ecd8303a44c79f9ef065a885d5a6.jpg",
+        "alt": "",
+        "sample": false
+      },
+      {
+        "src": "cad95ecaf8fa4aadba835cc46b2bb6e0.jpg",
+        "alt": "",
+        "sample": false
+      },
+      {
+        "src": "77e58c04cb3c49ad9f6af1df0921a1a6.jpg",
+        "alt": "",
+        "sample": false
+      }
+    ],
+    "background": {
+      "src": "5a916dda88614216810e970ac7f8b66b.mp3",
+      "sample": false,
+      "alt": ""
+    },
+    "film": {
+      "src": "352edaf3178f40988bab0ef1108b0199.mp4",
+      "sample": false,
+      "alt": ""
+    },
+    "tracks": [
+      {
+        "src": "947cb2cbc2c24e6fbe79436792414ee0.mp3",
+        "title": "Poker Face",
+        "sample": false,
+        "alt": ""
+      },
+      {
+        "src": "6019401de58a4726a9d58dc64158a8b5.mp3",
+        "title": "Bohemian Rhapsody",
+        "sample": false,
+        "alt": ""
+      },
+      {
+        "src": "585b2c1d4f8d4c6aa3a7023134000a4c.mp3",
+        "title": "Take Me Home, Country Roads",
+        "sample": false,
+        "alt": ""
+      }
+    ],
+    "artDetail1": {
+      "src": "89dd0572bfd84b8b9162d6802641c520.jpeg",
+      "alt": "",
+      "sample": false
+    },
+    "artDetail2": {
+      "src": "dd889ecd97ef4f24b09ba099b124b4e2.png",
+      "alt": "",
+      "sample": false
+    },
+    "artDetail3": {
+      "src": "437850284b3f4e3582540e9aac824ae2.webp",
+      "alt": "My GarageBand arrangement with multiple tracks",
+      "sample": false
+    },
+    "sportDetail1": {
+      "src": "f581859da44b43b38ffb36fd60dea069.webp",
+      "alt": "A game on the basketball court",
+      "sample": false
+    },
+    "sportDetail2": {
+      "src": "d459f12560d744da9b8b7599ea8adbfb.jpg",
+      "alt": "At a school athletics event",
+      "sample": false
+    },
+    "sportDetail3": {
+      "src": "de085b696cb34f0f997f283c35a711bc.jpg",
+      "alt": "Playing football",
+      "sample": false
+    },
+    "econDetail1": {
+      "src": "857800402ac847f6a909004bb32519ad.jpg",
+      "alt": "",
+      "sample": false
+    },
+    "econDetail2": {
+      "src": "712018abb05c47938933cdf53768a370.jpg",
+      "alt": "",
+      "sample": false
+    },
+    "econDetail3": {
+      "src": "d3ad0d775bb1448ea76cc37a701ad74f.jpg",
+      "alt": "",
+      "sample": false
+    },
+    "communityDetail1": {
+      "src": "1b13d1c374a149e59ebb0cbcf1b8b394.jpg",
+      "alt": "Working with others during a community activity",
+      "sample": false
+    },
+    "communityDetail2": {
+      "src": "a410f27012364a45a1ca8f791f0dc0c3.jpg",
+      "alt": "Teaching in a classroom",
+      "sample": false
+    },
+    "communityDetail3": {
+      "src": "d533179ab10541dfab8242b6b64de74d.png",
+      "alt": "",
+      "sample": false
+    },
+    "communityDetail4": {
+      "src": "395759d38d234dc1873bfb1c8196b31c.jpg",
+      "alt": "Working together on a school project",
+      "sample": false
+    },
+    "heart": [
+      {
+        "src": "8cedaa0a5b8a4cabb3e433e71bcdb9fc.webp",
+        "alt": "A football-themed portrait",
+        "sample": false
+      },
+      {
+        "src": "6c36532b838242a2bdbafca1b65db3d2.jpeg",
+        "alt": "A selfie with friends",
+        "sample": false
+      },
+      {
+        "src": "19ee7acf2c8847158a2bdae10dbb57aa.jpg",
+        "alt": "At the airport",
+        "sample": false
+      },
+      {
+        "src": "a13a46f68d9b4c33b56a82193117acd0.webp",
+        "alt": "On a plane",
+        "sample": false
+      },
+      {
+        "src": "2e20a2dc6c714703a7f2dd3a4c813df6.webp",
+        "alt": "A meal together",
+        "sample": false
+      },
+      {
+        "src": "851edc4170ba4588bfaf7b52ee90ea70.webp",
+        "alt": "An evening sky",
+        "sample": false
+      },
+      {
+        "src": "003883711a084facb72972492772e291.jpeg",
+        "alt": "Looking out in the rain",
+        "sample": false
+      },
+      {
+        "src": "93b0f9e8c7ee42299fb7f0afc23b6799.jpeg",
+        "alt": "A statue at sunset",
+        "sample": false
+      },
+      {
+        "src": "a338aa334eb2481eac7f31faf5d2a600.jpg",
+        "alt": "The waterfront at night",
+        "sample": false
+      },
+      {
+        "src": "f337b42323a74247a090297f0ca430f9.jpg",
+        "alt": "A city skyline at night",
+        "sample": false
+      },
+      {
+        "src": "5587559f03e44d329bbc996c0047be32.webp",
+        "alt": "A cat outdoors",
+        "sample": false
+      },
+      {
+        "src": "8ee64de49cdd4205922fba4c801d7e8f.webp",
+        "alt": "An evening street scene",
+        "sample": false
+      },
+      {
+        "src": "54bd73fc6137418fbcb0d925b82e3baa.jpeg",
+        "alt": "Playing pool",
+        "sample": false
+      },
+      {
+        "src": "65dc0a1c05ba4d1b91c69c73567bc30e.jpg",
+        "alt": "A view across the water",
+        "sample": false
+      },
+      {
+        "src": "494e7080c8184811a00a93be085754b3.webp",
+        "alt": "Buildings at night",
+        "sample": false
+      },
+      {
+        "src": "67804c9a922f49b2a60b0f4c70e41804.jpeg",
+        "alt": "A group photo",
+        "sample": false
+      },
+      {
+        "src": "6427dad9217940a7b52302213ebd044d.jpeg",
+        "alt": "At the basketball hoop",
+        "sample": false
+      },
+      {
+        "src": "01f4114002674f3291220673f4608d3e.jpeg",
+        "alt": "Friends on the court",
+        "sample": false
+      },
+      {
+        "src": "4882dec409554d04abb352ec2e3b3566.jpeg",
+        "alt": "Playing basketball indoors",
+        "sample": false
+      },
+      {
+        "src": "6ed8018d3f6d449381994f8a984056e0.jpeg",
+        "alt": "Playing football",
+        "sample": false
+      }
+    ],
+    "econProject1": {
+      "src": "9c52287fd141412084b0995e73947c29.jpeg",
+      "alt": "",
+      "sample": false
+    },
+    "econProject2": {
+      "src": "6bb1253466fb447cb624e91a031fb968.jpg",
+      "alt": "",
+      "sample": false
+    },
+    "econProject3": {
+      "src": "9dd08a2bf79f4f11a2ebaa39c33e1dc4.jpg",
+      "alt": "",
+      "sample": false
+    },
+    "econProject4": {
+      "src": "bdf7039815384aa4a477b72558072d43.jpg",
+      "alt": "",
+      "sample": false
+    },
+    "dance": {
+      "src": "b25176558a8546f5ab85707e35d1fb7b.webp",
+      "alt": "",
+      "sample": false
+    },
+    "artExtra": {
+      "src": "4106e9059b41455696e120476b254ce4.jpeg",
+      "alt": "",
+      "sample": false
+    }
+  }
+}
